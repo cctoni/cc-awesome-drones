@@ -19,7 +19,7 @@ Maybe youtube? 🤟
 * Next.js for easy react setup scaffolding
 
 ## Hardware Used
-* [DJI Tello Drone](https://www.amazon.de/gp/product/B078XV32CJ/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
+* [DJI Tello Drone](https://amzn.to/2HZCDnV)
 * [Extra Batteries](https://amzn.to/2SyV70J) - The Drone comes with one battery, but for continual development I recommend  two batteries or more — one in the charger and one in the drone. For flying away from your house you definitely need at least 3 as they only last about 10-15 mins.
 * [Fast Battery Charger with 4 slots](https://amzn.to/2SAWqwb)
 
